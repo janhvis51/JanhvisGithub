@@ -27,3 +27,4 @@ void sortColors(int* nums, int numsSize){
   return nums;      
     
 }
+longest increasing subsequencen
